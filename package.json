@@ -1,6 +1,6 @@
 {
   "name": "unicode-emoji-modifier-base",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The set of Unicode symbols that can serve as a base for emoji modifiers, i.e. those with the `Emoji_Modifier_Base` property set to `Yes`.",
   "homepage": "https://github.com/mathiasbynens/unicode-emoji-modifier-base",
   "main": "index.js",
